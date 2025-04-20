@@ -1,16 +1,10 @@
 # 💫 About Me
 
-🎓 I'm currently leveling up my skills as a **B.Tech student in Electronics & Telecommunication at VIT Pune**.
-
-🛠️ I specialize in **3D Web Development** — think of me as the person who adds depth to the web.
-
-🌐 Check out my **[Portfolio]([#](https://sanketsawant22.netlify.app/))** to see the magic I’ve built (and maybe spot a few Easter eggs too).
-
-💬 Curious about **Three.js**? **WebGL**? Or how to bring an interface to life in the coolest way possible? Just ask — I love geeking out over all things 3D and interactive!
-
-🌙 Team **Dark Mode** all the way — because *light attracts bugs*.
-
-🎯 On a mission to blend **creativity and code**, one pixel at a time.
+🎓 I'm currently leveling up my skills as a ***B.Tech student in Electronics & Telecommunication at VIT Pune***.<br>
+🛠️ I specialize in ***3D Web Development*** — think of me as the person who adds depth to the web.<br>
+🌐 Check out my ***[Portfolio]([#](https://sanketsawant22.netlify.app/))*** to see the magic I’ve built (and maybe spot a few Easter eggs too).<br>
+🌙 Team **Dark Mode** all the way — because **light attracts bugs**.<br>
+🎯 On a mission to blend ***creativity and code***, one pixel at a time.
 
 ###
 
@@ -26,36 +20,70 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=redux" height="30" alt="redux logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
+
+  <!-- Backend & Databases -->
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white&style=for-the-badge" height="30" alt="threejs logo"  />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="30" alt="firebase logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/redis/DC382D" height="30" alt="redis logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="30" alt="prisma logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/socket.io/010101" height="30" alt="socket.io logo" />
+  <img width="12" />
+
+  <!-- Others -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/flask/000000?background=ffffff" height="30" alt="flask logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="canva logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white&style=for-the-badge" height="30" alt="threejs logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=white&style=for-the-badge" height="30" alt="gsap logo" />
 </div>
+
 
 ###
 
