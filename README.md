@@ -1,5 +1,16 @@
-# 💫 About Me:
-🔭 I’m currently pursuing B Tech in E&TC at VIT PUNE<br>💻 Visit my Portfolio for more details about me.<br>💬 Ask me about 3D web development<br>⚡ Use dark mode, as light attracts bugs..!<br>
+# 💫 About Me
+
+🎓 I'm currently leveling up my skills as a **B.Tech student in Electronics & Telecommunication at VIT Pune**.
+
+🛠️ I specialize in **3D Web Development** — think of me as the person who adds depth to the web.
+
+🌐 Check out my **[Portfolio]([#](https://sanketsawant22.netlify.app/))** to see the magic I’ve built (and maybe spot a few Easter eggs too).
+
+💬 Curious about **Three.js**? **WebGL**? Or how to bring an interface to life in the coolest way possible? Just ask — I love geeking out over all things 3D and interactive!
+
+🌙 Team **Dark Mode** all the way — because *light attracts bugs*.
+
+🎯 On a mission to blend **creativity and code**, one pixel at a time.
 
 ###
 
