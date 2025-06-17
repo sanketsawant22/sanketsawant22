@@ -2,7 +2,7 @@
 
 🎓 I'm currently leveling up my skills as a ***B.Tech student in Electronics & Telecommunication at VIT Pune***.<br>
 🛠️ I specialize in ***3D Web Development*** - think of me as the person who adds depth to the web.<br>
-🌐 Check out my [***Portfolio***](https://sanketsawant22.netlify.app/) to see the magic I’ve built (and maybe spot a few Easter eggs too).
+🌐 Check out my [***Portfolio***](https://sanketsawant22.netlify.app/) to see the magic I’ve built (and maybe spot a few Easter eggs too).<br>
 🌙 Team **Dark Mode** all the way - because **light attracts bugs**.<br>
 🎯 On a mission to blend ***creativity and code***, one pixel at a time.
 
